@@ -1,0 +1,8 @@
+1.) definir todas las variables
+2.) Crear un ciclo mediante el cual pedire las edades
+3.) Pedir edades
+4.) compara el valor y entra en algun Si
+5.) si es positivo suma en una variable todas las edades, aumenta un contador y compara con todas las edades para hallar el maximo
+6.) entra un negativo
+7.) sale un menu de 3 opciones, hallar edad maxima, hallar promedio, o Salir
+
