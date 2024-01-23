@@ -1,0 +1,15 @@
+Pregunta 1
+rta: b) Imprime los números del 1 al 10.
+
+Pregunta 2
+rta: a) 100
+
+Pregunta 3:
+c) Mientras
+
+Pregunta 4:
+c) Los divisores de 6.
+
+Pregunta 5: 
+a) 54321
+
